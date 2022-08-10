@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{849CEF42-18BF-B08F-4000-157607617760}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MarchingCubes.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MarchingCubes.cs" Line="306" Column="26" />
+      <File FileName="Assets/Scripts/DrawBorder.cs" />
+      <File FileName="Assets/Scripts/MeshGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Perlin3D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChunkLoader.cs" Line="9" Column="31" />
+      <File FileName="Assets/Scripts/Vector3ExtensionsMethodsVectorExtensionMethods.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Marching Cubes" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MarchingCubes.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f34ce054-ca9e-4655-b3cc-e7ea0e7768f7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
