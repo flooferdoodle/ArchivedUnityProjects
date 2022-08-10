@@ -77,6 +77,7 @@ public class MarchingCubes : MonoBehaviour
 
         GeneratePoints();
         GenerateMesh();
+
         
         
 

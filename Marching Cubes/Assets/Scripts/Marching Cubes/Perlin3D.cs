@@ -7,6 +7,7 @@ public class Perlin3D : MonoBehaviour
     public float xoffset = 0;
     public float yoffset = 0;
     public float zoffset = 0;
+    [Range(0.0001f, 0.5f)]
     public float scale = 0.1f;
 
     public float GenerateNum(float x, float y, float z)
